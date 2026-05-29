@@ -9,5 +9,9 @@
     "date": "2026-05-28",
     "path": "snapshots/us/2026-05-28.json"
   },
-  "weekly": null
+  "weekly": {
+    "date": "2026-05-29",
+    "path": "snapshots/weekly/2026-W22.json",
+    "week": "2026-W22"
+  }
 }
