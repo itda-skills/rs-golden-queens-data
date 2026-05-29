@@ -1,7 +1,10 @@
 {
+  "kr": {
+    "date": "2026-05-29",
+    "path": "snapshots/kr/2026-05-29.json"
+  },
   "schema_version": 1,
-  "updated_at": null,
-  "kr": null,
+  "updated_at": "2026-05-29T15:46:53+09:00",
   "us": null,
   "weekly": null
 }
