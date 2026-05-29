@@ -1,0 +1,170 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T18:10:00+09:00",
+  "is_holiday": false,
+  "market": "kr",
+  "payload": {
+    "bizdate": "20260520",
+    "kosdaq": {
+      "bizdate": "20260529",
+      "foreign": 115,
+      "institutional": -3140,
+      "personal": 3094,
+      "program_arb": 2,
+      "program_nonarb": -767,
+      "program_total": -766
+    },
+    "kospi": {
+      "bizdate": "20260529",
+      "foreign": -10421,
+      "institutional": 23688,
+      "personal": -14054,
+      "program_arb": 3985,
+      "program_nonarb": 5528,
+      "program_total": 9513
+    },
+    "kospi_daily": [
+      {
+        "bank": 40,
+        "date": "26.05.20",
+        "finance": 9774,
+        "foreign": -29310,
+        "institutional": 11070,
+        "insurance": 68,
+        "other_corp": 1135,
+        "other_fin": 150,
+        "pension": -1515,
+        "personal": 17104,
+        "trust": 2553
+      },
+      {
+        "bank": -43,
+        "date": "26.05.19",
+        "finance": 3215,
+        "foreign": -57242,
+        "institutional": 1575,
+        "insurance": -7,
+        "other_corp": -622,
+        "other_fin": 172,
+        "pension": -1386,
+        "personal": 56289,
+        "trust": -376
+      },
+      {
+        "bank": -251,
+        "date": "26.05.18",
+        "finance": 14000,
+        "foreign": -36492,
+        "institutional": 13904,
+        "insurance": -121,
+        "other_corp": 494,
+        "other_fin": 102,
+        "pension": 16,
+        "personal": 22094,
+        "trust": 158
+      },
+      {
+        "bank": -26,
+        "date": "26.05.15",
+        "finance": -9325,
+        "foreign": -56040,
+        "institutional": -17347,
+        "insurance": -278,
+        "other_corp": 1079,
+        "other_fin": 39,
+        "pension": -949,
+        "personal": 72308,
+        "trust": -6808
+      },
+      {
+        "bank": -121,
+        "date": "26.05.14",
+        "finance": 12618,
+        "foreign": -21450,
+        "institutional": 1927,
+        "insurance": -1750,
+        "other_corp": 1024,
+        "other_fin": -98,
+        "pension": -1933,
+        "personal": 18499,
+        "trust": -6788
+      },
+      {
+        "bank": 67,
+        "date": "26.05.13",
+        "finance": 18852,
+        "foreign": -37227,
+        "institutional": 16876,
+        "insurance": -630,
+        "other_corp": 1482,
+        "other_fin": -300,
+        "pension": -2363,
+        "personal": 18868,
+        "trust": 1250
+      },
+      {
+        "bank": -110,
+        "date": "26.05.12",
+        "finance": -6205,
+        "foreign": -56090,
+        "institutional": -12138,
+        "insurance": -1420,
+        "other_corp": 1409,
+        "other_fin": -70,
+        "pension": -1857,
+        "personal": 66818,
+        "trust": -2476
+      },
+      {
+        "bank": 20,
+        "date": "26.05.11",
+        "finance": 10028,
+        "foreign": -28147,
+        "institutional": -458,
+        "insurance": -3964,
+        "other_corp": -63,
+        "other_fin": 412,
+        "pension": -2948,
+        "personal": 28669,
+        "trust": -4006
+      },
+      {
+        "bank": -6,
+        "date": "26.05.08",
+        "finance": 15166,
+        "foreign": -52967,
+        "institutional": 12542,
+        "insurance": -826,
+        "other_corp": 718,
+        "other_fin": 67,
+        "pension": -502,
+        "personal": 39707,
+        "trust": -1357
+      },
+      {
+        "bank": -246,
+        "date": "26.05.07",
+        "finance": 17617,
+        "foreign": -66987,
+        "institutional": 8917,
+        "insurance": -806,
+        "other_corp": -1855,
+        "other_fin": 11,
+        "pension": 494,
+        "personal": 59925,
+        "trust": -8154
+      }
+    ]
+  },
+  "schema_version": 1,
+  "sources": [
+    {
+      "label": "네이버 일별",
+      "url": "https://finance.naver.com/sise/investorDealTrendDay.naver?bizdate=20260520"
+    },
+    {
+      "label": "모바일 통합",
+      "url": "https://m.stock.naver.com/domestic/index/KOSPI/total"
+    }
+  ]
+}

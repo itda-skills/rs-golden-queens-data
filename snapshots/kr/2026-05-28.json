@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-29",
-  "generated_at": "2026-05-29T18:10:00+09:00",
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T18:10:00+09:00",
   "is_holiday": false,
   "market": "kr",
   "payload": {
-    "bizdate": "20260529",
+    "bizdate": "20260528",
     "kosdaq": {
       "bizdate": "20260529",
       "foreign": 115,
@@ -24,19 +24,6 @@
       "program_total": 9513
     },
     "kospi_daily": [
-      {
-        "bank": -7,
-        "date": "26.05.29",
-        "finance": 19139,
-        "foreign": -10421,
-        "institutional": 23688,
-        "insurance": -409,
-        "other_corp": 787,
-        "other_fin": -46,
-        "pension": 909,
-        "personal": -14054,
-        "trust": 4102
-      },
       {
         "bank": -79,
         "date": "26.05.28",
@@ -153,6 +140,19 @@
         "pension": -949,
         "personal": 72308,
         "trust": -6808
+      },
+      {
+        "bank": -121,
+        "date": "26.05.14",
+        "finance": 12618,
+        "foreign": -21450,
+        "institutional": 1927,
+        "insurance": -1750,
+        "other_corp": 1024,
+        "other_fin": -98,
+        "pension": -1933,
+        "personal": 18499,
+        "trust": -6788
       }
     ]
   },
@@ -160,7 +160,7 @@
   "sources": [
     {
       "label": "네이버 일별",
-      "url": "https://finance.naver.com/sise/investorDealTrendDay.naver?bizdate=20260529"
+      "url": "https://finance.naver.com/sise/investorDealTrendDay.naver?bizdate=20260528"
     },
     {
       "label": "모바일 통합",
