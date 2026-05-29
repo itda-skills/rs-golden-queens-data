@@ -1,41 +1,41 @@
 {
   "date": "2026-05-29",
-  "generated_at": "2026-05-29T18:10:00+09:00",
+  "generated_at": "2026-05-29T18:10:27+09:00",
   "is_holiday": false,
   "market": "kr",
   "payload": {
     "bizdate": "20260529",
     "kosdaq": {
       "bizdate": "20260529",
-      "foreign": -145,
-      "institutional": -3003,
-      "personal": 3099,
+      "foreign": 115,
+      "institutional": -3140,
+      "personal": 3094,
       "program_arb": 2,
       "program_nonarb": -767,
-      "program_total": -765
+      "program_total": -766
     },
     "kospi": {
       "bizdate": "20260529",
-      "foreign": -10424,
-      "institutional": 23722,
-      "personal": -14076,
+      "foreign": -10421,
+      "institutional": 23688,
+      "personal": -14054,
       "program_arb": 3985,
-      "program_nonarb": 5558,
-      "program_total": 9543
+      "program_nonarb": 5528,
+      "program_total": 9513
     },
     "kospi_daily": [
       {
         "bank": -7,
         "date": "26.05.29",
-        "finance": 19153,
-        "foreign": -10424,
-        "institutional": 23722,
+        "finance": 19139,
+        "foreign": -10421,
+        "institutional": 23688,
         "insurance": -409,
-        "other_corp": 778,
+        "other_corp": 787,
         "other_fin": -46,
         "pension": 909,
-        "personal": -14076,
-        "trust": 4122
+        "personal": -14054,
+        "trust": 4102
       },
       {
         "bank": -79,
