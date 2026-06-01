@@ -4,6 +4,68 @@
   "is_holiday": false,
   "market": "weekly",
   "payload": {
+    "kosdaq_daily": [
+      {
+        "date": "26.05.29",
+        "foreign": 115,
+        "institutional": -3140,
+        "personal": 3094
+      },
+      {
+        "date": "26.05.28",
+        "foreign": 3821,
+        "institutional": -4011,
+        "personal": 381
+      },
+      {
+        "date": "26.05.27",
+        "foreign": -847,
+        "institutional": -5411,
+        "personal": 6315
+      },
+      {
+        "date": "26.05.26",
+        "foreign": -1031,
+        "institutional": -256,
+        "personal": 2306
+      },
+      {
+        "date": "26.05.22",
+        "foreign": 5975,
+        "institutional": 3010,
+        "personal": -8793
+      },
+      {
+        "date": "26.05.21",
+        "foreign": 1366,
+        "institutional": 1391,
+        "personal": -2509
+      },
+      {
+        "date": "26.05.20",
+        "foreign": 2009,
+        "institutional": -1367,
+        "personal": -580
+      },
+      {
+        "date": "26.05.19",
+        "foreign": 1307,
+        "institutional": -659,
+        "personal": 1032
+      },
+      {
+        "date": "26.05.18",
+        "foreign": 2369,
+        "institutional": -2540,
+        "personal": -84
+      },
+      {
+        "date": "26.05.15",
+        "foreign": 4081,
+        "institutional": -1673,
+        "personal": -1448
+      }
+    ],
     "kospi_daily": [
       {
         "bank": -7,
@@ -176,6 +238,10 @@
     {
       "label": "네이버 일별",
       "url": "https://finance.naver.com/sise/investorDealTrendDay.naver?bizdate=20260529"
+    },
+    {
+      "label": "KIS 코스닥 일별",
+      "url": "https://apiportal.koreainvestment.com/apiservice/apiservice-domestic-stock-quotations#L_3d3dd20d-a64d-44ef-a7e2-ca110a5fe72e"
     },
     {
       "label": "Yahoo Finance",
