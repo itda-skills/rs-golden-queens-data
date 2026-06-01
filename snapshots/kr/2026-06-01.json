@@ -9,75 +9,75 @@
       "buy": [
         {
           "code": "005930",
-          "combined_eok": 0.0,
-          "foreign_eok": 0.0,
+          "combined_eok": 8707.5,
+          "foreign_eok": 3835.5,
           "name": "삼성전자",
-          "orgn_eok": 0.0
+          "orgn_eok": 4872.0
         },
         {
           "code": "402340",
-          "combined_eok": 0.0,
-          "foreign_eok": 0.0,
+          "combined_eok": 2311.0,
+          "foreign_eok": 3039.5,
           "name": "SK스퀘어",
-          "orgn_eok": -0.0
+          "orgn_eok": -728.5
         },
         {
           "code": "454910",
-          "combined_eok": 0.0,
-          "foreign_eok": 0.0,
+          "combined_eok": 1343.8,
+          "foreign_eok": 1330.0,
           "name": "두산로보틱스",
-          "orgn_eok": 0.0
+          "orgn_eok": 13.8
         },
         {
           "code": "108490",
-          "combined_eok": 0.0,
-          "foreign_eok": 0.0,
+          "combined_eok": 929.8,
+          "foreign_eok": 797.0,
           "name": "로보티즈",
-          "orgn_eok": 0.0
+          "orgn_eok": 132.8
         },
         {
           "code": "012450",
-          "combined_eok": 0.0,
-          "foreign_eok": 0.0,
+          "combined_eok": 773.8,
+          "foreign_eok": 796.6,
           "name": "한화에어로스페이스",
-          "orgn_eok": -0.0
+          "orgn_eok": -22.8
         }
       ],
       "sell": [
         {
           "code": "000660",
-          "combined_eok": 0.0,
-          "foreign_eok": -0.0,
+          "combined_eok": -11389.7,
+          "foreign_eok": -20132.8,
           "name": "SK하이닉스",
-          "orgn_eok": 0.0
+          "orgn_eok": 8743.1
         },
         {
           "code": "011070",
-          "combined_eok": -0.0,
-          "foreign_eok": -0.0,
+          "combined_eok": -2830.5,
+          "foreign_eok": -2371.5,
           "name": "LG이노텍",
-          "orgn_eok": -0.0
+          "orgn_eok": -459.0
         },
         {
           "code": "005935",
-          "combined_eok": -0.0,
-          "foreign_eok": -0.0,
+          "combined_eok": -3192.2,
+          "foreign_eok": -3105.2,
           "name": "삼성전자우",
-          "orgn_eok": -0.0
+          "orgn_eok": -87.0
         },
         {
           "code": "003550",
-          "combined_eok": -0.0,
-          "foreign_eok": -0.0,
+          "combined_eok": -1356.2,
+          "foreign_eok": -1207.0,
           "name": "LG",
-          "orgn_eok": -0.0
+          "orgn_eok": -149.2
         },
         {
           "code": "066570",
-          "combined_eok": 0.0,
-          "foreign_eok": -0.0,
+          "combined_eok": -1442.1,
+          "foreign_eok": -1693.2,
           "name": "LG전자",
-          "orgn_eok": 0.0
+          "orgn_eok": 251.1
         }
       ]
     },
