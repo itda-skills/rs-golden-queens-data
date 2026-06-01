@@ -47,6 +47,8 @@ rs-golden-queens 봇의 fetcher 반환 구조를 그대로 발행 payload로 사
 
 `payload`:
 - `kospi_daily`: KR과 동일 구조 (5~10행)
+- `kosdaq_daily`: 코스닥 일별 3주체 배열. 각 행:
+  `{ date, personal, foreign, institutional }` (단위: 억원, 순매수)
 - `watch_5d`: `[{ ticker, pct_5d }]` (8개)
 
 ## index.json
