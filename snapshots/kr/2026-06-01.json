@@ -229,19 +229,6 @@
         "pension": 16,
         "personal": 22094,
         "trust": 158
-      },
-      {
-        "bank": 8,
-        "date": "1",
-        "finance": 5,
-        "foreign": 3,
-        "institutional": 4,
-        "insurance": 6,
-        "other_corp": 0,
-        "other_fin": 9,
-        "pension": 10,
-        "personal": 2,
-        "trust": 7
       }
     ],
     "money_flow": {
