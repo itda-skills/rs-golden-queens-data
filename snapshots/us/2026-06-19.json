@@ -1,0 +1,10 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T18:01:02-04:00",
+  "is_holiday": true,
+  "market": "us",
+  "message": "[US] 2026-06-19 (금) 오늘은 휴장입니다",
+  "payload": null,
+  "schema_version": 1,
+  "sources": []
+}
