@@ -1,0 +1,174 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T18:11:02+09:00",
+  "is_holiday": false,
+  "market": "kr",
+  "payload": {
+    "bizdate": "20260703",
+    "foreign_inst": null,
+    "kosdaq": {
+      "bizdate": "20260703",
+      "foreign": -202,
+      "institutional": -1037,
+      "personal": 1075,
+      "program_arb": -71,
+      "program_nonarb": -852,
+      "program_total": -922
+    },
+    "kosdaq_daily": null,
+    "kospi": {
+      "bizdate": "20260703",
+      "foreign": -21750,
+      "institutional": 44079,
+      "personal": -22942,
+      "program_arb": 3347,
+      "program_nonarb": -12714,
+      "program_total": -9367
+    },
+    "kospi_daily": [
+      {
+        "bank": 149,
+        "date": "26.07.03",
+        "finance": 30153,
+        "foreign": -21750,
+        "institutional": 44079,
+        "insurance": 1040,
+        "other_corp": 614,
+        "other_fin": 413,
+        "pension": 563,
+        "personal": -22942,
+        "trust": 11761
+      },
+      {
+        "bank": 9,
+        "date": "26.07.02",
+        "finance": -3928,
+        "foreign": -43706,
+        "institutional": -20825,
+        "insurance": 556,
+        "other_corp": 2118,
+        "other_fin": 457,
+        "pension": -495,
+        "personal": 62413,
+        "trust": -17424
+      },
+      {
+        "bank": 49,
+        "date": "26.07.01",
+        "finance": -983,
+        "foreign": -17028,
+        "institutional": -700,
+        "insurance": 482,
+        "other_corp": 359,
+        "other_fin": 472,
+        "pension": -2177,
+        "personal": 17370,
+        "trust": 1457
+      },
+      {
+        "bank": 14,
+        "date": "26.06.30",
+        "finance": 16121,
+        "foreign": -37992,
+        "institutional": 29332,
+        "insurance": 925,
+        "other_corp": 259,
+        "other_fin": 43,
+        "pension": -394,
+        "personal": 8401,
+        "trust": 12623
+      },
+      {
+        "bank": -112,
+        "date": "26.06.29",
+        "finance": 30270,
+        "foreign": -77332,
+        "institutional": 29327,
+        "insurance": 40,
+        "other_corp": 2030,
+        "other_fin": -33,
+        "pension": 581,
+        "personal": 45975,
+        "trust": -1419
+      },
+      {
+        "bank": -11,
+        "date": "26.06.26",
+        "finance": -19935,
+        "foreign": -42906,
+        "institutional": -41224,
+        "insurance": -302,
+        "other_corp": 2211,
+        "other_fin": -3,
+        "pension": -482,
+        "personal": 81919,
+        "trust": -20491
+      },
+      {
+        "bank": 62,
+        "date": "26.06.25",
+        "finance": 24024,
+        "foreign": -8754,
+        "institutional": 33244,
+        "insurance": -1082,
+        "other_corp": -354,
+        "other_fin": -29,
+        "pension": -25,
+        "personal": -24136,
+        "trust": 10293
+      },
+      {
+        "bank": 27,
+        "date": "26.06.24",
+        "finance": 17479,
+        "foreign": -46546,
+        "institutional": 19095,
+        "insurance": -103,
+        "other_corp": 1138,
+        "other_fin": 37,
+        "pension": 131,
+        "personal": 26312,
+        "trust": 1524
+      },
+      {
+        "bank": -165,
+        "date": "26.06.23",
+        "finance": -20908,
+        "foreign": -42047,
+        "institutional": -44760,
+        "insurance": -1018,
+        "other_corp": 898,
+        "other_fin": -69,
+        "pension": -2937,
+        "personal": 85910,
+        "trust": -19662
+      },
+      {
+        "bank": -19,
+        "date": "26.06.22",
+        "finance": 4859,
+        "foreign": -25466,
+        "institutional": 3034,
+        "insurance": -860,
+        "other_corp": 926,
+        "other_fin": -150,
+        "pension": -1834,
+        "personal": 21506,
+        "trust": 1038
+      }
+    ],
+    "money_flow": null,
+    "sectors": null
+  },
+  "schema_version": 1,
+  "sources": [
+    {
+      "label": "네이버 일별",
+      "url": "https://finance.naver.com/sise/investorDealTrendDay.naver?bizdate=20260703"
+    },
+    {
+      "label": "모바일 통합",
+      "url": "https://m.stock.naver.com/domestic/index/KOSPI/total"
+    }
+  ]
+}
