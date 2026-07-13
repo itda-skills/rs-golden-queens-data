@@ -3,11 +3,11 @@
     "path": "snapshots/calendar.json"
   },
   "kr": {
-    "date": "2026-07-10",
-    "path": "snapshots/kr/2026-07-10.json"
+    "date": "2026-07-13",
+    "path": "snapshots/kr/2026-07-13.json"
   },
   "schema_version": 1,
-  "updated_at": "2026-07-12T09:01:00+09:00",
+  "updated_at": "2026-07-13T18:10:36+09:00",
   "us": {
     "date": "2026-07-10",
     "path": "snapshots/us/2026-07-10.json"
