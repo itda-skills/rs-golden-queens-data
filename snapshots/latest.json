@@ -7,14 +7,14 @@
     "path": "snapshots/kr/2026-10-08.json"
   },
   "schema_version": 1,
-  "updated_at": "2026-10-08T18:11:02+09:00",
+  "updated_at": "2026-10-08T18:15:51+09:00",
   "us": {
     "date": "2026-10-07",
     "path": "snapshots/us/2026-10-07.json"
   },
   "weekly": {
-    "date": "2026-10-02",
-    "path": "snapshots/weekly/2026-W40.json",
-    "week": "2026-W40"
+    "date": "2026-10-08",
+    "path": "snapshots/weekly/2026-W41.json",
+    "week": "2026-W41"
   }
 }
