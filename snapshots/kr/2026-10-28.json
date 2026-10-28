@@ -1,0 +1,952 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T18:11:21+09:00",
+  "is_holiday": false,
+  "market": "kr",
+  "payload": {
+    "bizdate": "20261028",
+    "foreign_inst": {
+      "buy": [
+        {
+          "code": "000660",
+          "combined_eok": 7395.4,
+          "foreign_eok": 4249.4,
+          "name": "SK하이닉스",
+          "orgn_eok": 3146.0
+        },
+        {
+          "code": "005930",
+          "combined_eok": 6419.0,
+          "foreign_eok": 3664.2,
+          "name": "삼성전자",
+          "orgn_eok": 2754.8
+        },
+        {
+          "code": "005935",
+          "combined_eok": 1888.0,
+          "foreign_eok": 1941.5,
+          "name": "삼성전자우",
+          "orgn_eok": -53.5
+        },
+        {
+          "code": "028050",
+          "combined_eok": 486.0,
+          "foreign_eok": 492.4,
+          "name": "삼성E&A",
+          "orgn_eok": -6.4
+        },
+        {
+          "code": "009150",
+          "combined_eok": 130.8,
+          "foreign_eok": -274.7,
+          "name": "삼성전기",
+          "orgn_eok": 405.5
+        },
+        {
+          "code": "064400",
+          "combined_eok": 171.1,
+          "foreign_eok": 132.3,
+          "name": "LG씨엔에스",
+          "orgn_eok": 38.8
+        },
+        {
+          "code": "108490",
+          "combined_eok": 188.1,
+          "foreign_eok": 147.2,
+          "name": "로보티즈",
+          "orgn_eok": 40.9
+        },
+        {
+          "code": "012330",
+          "combined_eok": 154.6,
+          "foreign_eok": 119.5,
+          "name": "현대모비스",
+          "orgn_eok": 35.1
+        },
+        {
+          "code": "218410",
+          "combined_eok": 126.7,
+          "foreign_eok": 90.8,
+          "name": "RFHIC",
+          "orgn_eok": 35.9
+        },
+        {
+          "code": "028260",
+          "combined_eok": 145.8,
+          "foreign_eok": -6.5,
+          "name": "삼성물산",
+          "orgn_eok": 152.3
+        }
+      ],
+      "sell": [
+        {
+          "code": "373220",
+          "combined_eok": -327.8,
+          "foreign_eok": -387.4,
+          "name": "LG에너지솔루션",
+          "orgn_eok": 59.6
+        },
+        {
+          "code": "042660",
+          "combined_eok": -253.1,
+          "foreign_eok": -216.3,
+          "name": "한화오션",
+          "orgn_eok": -36.8
+        },
+        {
+          "code": "011070",
+          "combined_eok": -212.9,
+          "foreign_eok": -146.8,
+          "name": "LG이노텍",
+          "orgn_eok": -66.1
+        },
+        {
+          "code": "222800",
+          "combined_eok": -210.9,
+          "foreign_eok": -292.7,
+          "name": "심텍",
+          "orgn_eok": 81.8
+        },
+        {
+          "code": "329180",
+          "combined_eok": -142.4,
+          "foreign_eok": -145.3,
+          "name": "HD현대중공업",
+          "orgn_eok": 2.9
+        },
+        {
+          "code": "031980",
+          "combined_eok": -137.6,
+          "foreign_eok": -191.8,
+          "name": "피에스케이홀딩스",
+          "orgn_eok": 54.2
+        },
+        {
+          "code": "086790",
+          "combined_eok": -95.7,
+          "foreign_eok": -107.2,
+          "name": "하나금융지주",
+          "orgn_eok": 11.5
+        },
+        {
+          "code": "047040",
+          "combined_eok": -138.6,
+          "foreign_eok": -118.7,
+          "name": "대우건설",
+          "orgn_eok": -19.9
+        },
+        {
+          "code": "403870",
+          "combined_eok": -126.4,
+          "foreign_eok": -85.7,
+          "name": "HPSP",
+          "orgn_eok": -40.7
+        },
+        {
+          "code": "267260",
+          "combined_eok": -134.1,
+          "foreign_eok": -124.9,
+          "name": "HD현대일렉트릭",
+          "orgn_eok": -9.2
+        }
+      ]
+    },
+    "kosdaq": {
+      "bizdate": "20261028",
+      "foreign": -1873,
+      "institutional": 2260,
+      "personal": -305,
+      "program_arb": -18,
+      "program_nonarb": -1775,
+      "program_total": -1793
+    },
+    "kosdaq_daily": [
+      {
+        "date": "26.10.28",
+        "foreign": -1873,
+        "institutional": 2260,
+        "personal": -305
+      },
+      {
+        "date": "26.10.27",
+        "foreign": 255,
+        "institutional": 1510,
+        "personal": -1734
+      },
+      {
+        "date": "26.10.26",
+        "foreign": 442,
+        "institutional": -1268,
+        "personal": 769
+      },
+      {
+        "date": "26.10.23",
+        "foreign": -401,
+        "institutional": -292,
+        "personal": 659
+      },
+      {
+        "date": "26.10.22",
+        "foreign": -1124,
+        "institutional": -957,
+        "personal": 2081
+      },
+      {
+        "date": "26.10.21",
+        "foreign": -1756,
+        "institutional": 1055,
+        "personal": 553
+      },
+      {
+        "date": "26.10.20",
+        "foreign": -1772,
+        "institutional": -1012,
+        "personal": 2778
+      },
+      {
+        "date": "26.10.19",
+        "foreign": -1618,
+        "institutional": 686,
+        "personal": 783
+      },
+      {
+        "date": "26.10.16",
+        "foreign": -931,
+        "institutional": 1709,
+        "personal": -966
+      },
+      {
+        "date": "26.10.15",
+        "foreign": 2223,
+        "institutional": -1609,
+        "personal": -748
+      }
+    ],
+    "kospi": {
+      "bizdate": "20261028",
+      "foreign": 7890,
+      "institutional": 9549,
+      "personal": -17659,
+      "program_arb": -252,
+      "program_nonarb": 5097,
+      "program_total": 4845
+    },
+    "kospi_daily": [
+      {
+        "bank": 42,
+        "date": "26.10.28",
+        "finance": 7059,
+        "foreign": 7890,
+        "institutional": 9549,
+        "insurance": 208,
+        "other_corp": 220,
+        "other_fin": -56,
+        "pension": 811,
+        "personal": -17659,
+        "trust": 1485
+      },
+      {
+        "bank": -30,
+        "date": "26.10.27",
+        "finance": 1599,
+        "foreign": 5826,
+        "institutional": 2824,
+        "insurance": -42,
+        "other_corp": 757,
+        "other_fin": 44,
+        "pension": -1265,
+        "personal": -9407,
+        "trust": 2518
+      },
+      {
+        "bank": -27,
+        "date": "26.10.26",
+        "finance": 6767,
+        "foreign": -6827,
+        "institutional": 6131,
+        "insurance": 37,
+        "other_corp": 364,
+        "other_fin": 50,
+        "pension": 403,
+        "personal": 331,
+        "trust": -1100
+      },
+      {
+        "bank": -5,
+        "date": "26.10.23",
+        "finance": 5549,
+        "foreign": -9811,
+        "institutional": 8682,
+        "insurance": 830,
+        "other_corp": 708,
+        "other_fin": 68,
+        "pension": 529,
+        "personal": 422,
+        "trust": 1710
+      },
+      {
+        "bank": -19,
+        "date": "26.10.22",
+        "finance": -3679,
+        "foreign": 505,
+        "institutional": -4599,
+        "insurance": 739,
+        "other_corp": 428,
+        "other_fin": -46,
+        "pension": 1313,
+        "personal": 3666,
+        "trust": -2908
+      },
+      {
+        "bank": -43,
+        "date": "26.10.21",
+        "finance": -5454,
+        "foreign": 6462,
+        "institutional": -781,
+        "insurance": 650,
+        "other_corp": 5478,
+        "other_fin": -1,
+        "pension": -850,
+        "personal": -11159,
+        "trust": 4917
+      },
+      {
+        "bank": -63,
+        "date": "26.10.20",
+        "finance": -2750,
+        "foreign": -4884,
+        "institutional": -9901,
+        "insurance": 593,
+        "other_corp": 6310,
+        "other_fin": -38,
+        "pension": -553,
+        "personal": 8475,
+        "trust": -7091
+      },
+      {
+        "bank": 14,
+        "date": "26.10.19",
+        "finance": 903,
+        "foreign": 947,
+        "institutional": 5302,
+        "insurance": 573,
+        "other_corp": 5518,
+        "other_fin": 10,
+        "pension": 2151,
+        "personal": -11767,
+        "trust": 1650
+      },
+      {
+        "bank": 82,
+        "date": "26.10.16",
+        "finance": -9560,
+        "foreign": 3637,
+        "institutional": -6815,
+        "insurance": 555,
+        "other_corp": 8304,
+        "other_fin": 63,
+        "pension": -1677,
+        "personal": -5126,
+        "trust": 3723
+      },
+      {
+        "bank": -146,
+        "date": "26.10.15",
+        "finance": 21251,
+        "foreign": -37637,
+        "institutional": 17176,
+        "insurance": 1038,
+        "other_corp": 6494,
+        "other_fin": -58,
+        "pension": 350,
+        "personal": 13967,
+        "trust": -5260
+      }
+    ],
+    "money_flow": {
+      "etfs": [
+        {
+          "both_buy": false,
+          "code": "122630",
+          "combined_eok": 1893.777102,
+          "foreign_eok": -41.74114,
+          "grade": "B",
+          "name": "KODEX 레버리지",
+          "orgn_eok": 1935.518242,
+          "price": 80280,
+          "ret_5": 11.904098132143858,
+          "trade_value_eok": 18344.97487063
+        },
+        {
+          "both_buy": true,
+          "code": "069500",
+          "combined_eok": 1094.72744895,
+          "foreign_eok": 6.1339081,
+          "grade": "B",
+          "name": "KODEX 200",
+          "orgn_eok": 1088.59354085,
+          "price": 95650,
+          "ret_5": 6.603510727222073,
+          "trade_value_eok": 26163.21450332
+        },
+        {
+          "both_buy": true,
+          "code": "0193T0",
+          "combined_eok": 550.5534349333334,
+          "foreign_eok": 421.48518133333334,
+          "grade": "B",
+          "name": "KODEX SK하이닉스단일종목레버리지",
+          "orgn_eok": 129.0682536,
+          "price": 7100,
+          "ret_5": 29.798903107861065,
+          "trade_value_eok": 2290.50538155
+        },
+        {
+          "both_buy": true,
+          "code": "233740",
+          "combined_eok": 280.06807935,
+          "foreign_eok": 22.5102257,
+          "grade": "C",
+          "name": "KODEX 코스닥150레버리지",
+          "orgn_eok": 257.55785365,
+          "price": 5545,
+          "ret_5": -8.271298593879239,
+          "trade_value_eok": 3540.86355086
+        },
+        {
+          "both_buy": true,
+          "code": "0195S0",
+          "combined_eok": 144.4879527,
+          "foreign_eok": 141.2926367,
+          "grade": "C",
+          "name": "TIGER SK하이닉스단일종목레버리지",
+          "orgn_eok": 3.195316,
+          "price": 6005,
+          "ret_5": 29.55771305285868,
+          "trade_value_eok": 693.7477732
+        },
+        {
+          "both_buy": true,
+          "code": "251340",
+          "combined_eok": 110.0708305,
+          "foreign_eok": 24.46038325,
+          "grade": "B",
+          "name": "KODEX 코스닥150선물인버스",
+          "orgn_eok": 85.61044724999999,
+          "price": 2570,
+          "ret_5": 3.2128514056224855,
+          "trade_value_eok": 1120.5882075
+        },
+        {
+          "both_buy": true,
+          "code": "0197X0",
+          "combined_eok": 64.17760559999999,
+          "foreign_eok": 2.4305096,
+          "grade": "B",
+          "name": "SOL SK하이닉스선물단일종목인버스2X",
+          "orgn_eok": 61.747096,
+          "price": 7170,
+          "ret_5": -29.671407552721917,
+          "trade_value_eok": 2432.61662725
+        },
+        {
+          "both_buy": false,
+          "code": "396500",
+          "combined_eok": 46.1022525,
+          "foreign_eok": -17.86005,
+          "grade": "B",
+          "name": "TIGER 반도체TOP10",
+          "orgn_eok": 63.9623025,
+          "price": 32690,
+          "ret_5": 9.8269779942886,
+          "trade_value_eok": 3385.0435697
+        },
+        {
+          "both_buy": false,
+          "code": "102110",
+          "combined_eok": 22.5351676,
+          "foreign_eok": -37.2385896,
+          "grade": "B",
+          "name": "TIGER 200",
+          "orgn_eok": 59.7737572,
+          "price": 95930,
+          "ret_5": 6.523791016600966,
+          "trade_value_eok": 14546.39685001
+        },
+        {
+          "both_buy": false,
+          "code": "360750",
+          "combined_eok": 18.805110133333336,
+          "foreign_eok": 61.35249138333334,
+          "grade": "B",
+          "name": "TIGER 미국S&P500",
+          "orgn_eok": -42.54738125,
+          "price": 25655,
+          "ret_5": 0.9046214355948878,
+          "trade_value_eok": 6517.06140427
+        }
+      ],
+      "etfs_sell": [
+        {
+          "code": "252670",
+          "combined_eok": -729.420344,
+          "foreign_eok": 25.38565844,
+          "name": "KODEX 200선물인버스2X",
+          "orgn_eok": -754.80600244,
+          "price": 89,
+          "ret_5": -12.745098039215685,
+          "trade_value_eok": 10235.93901935
+        },
+        {
+          "code": "114800",
+          "combined_eok": -688.26493386,
+          "foreign_eok": -15.31248416,
+          "name": "KODEX 인버스",
+          "orgn_eok": -672.9524497,
+          "price": 1122,
+          "ret_5": -6.499999999999995,
+          "trade_value_eok": 13590.92899152
+        },
+        {
+          "code": "379800",
+          "combined_eok": -119.52854230000001,
+          "foreign_eok": 1.8366906833333334,
+          "name": "KODEX 미국S&P500",
+          "orgn_eok": -121.36523298333334,
+          "price": 23325,
+          "ret_5": 0.9303331890956335,
+          "trade_value_eok": 4353.17762617
+        },
+        {
+          "code": "379810",
+          "combined_eok": -96.18510223333334,
+          "foreign_eok": 19.308236333333333,
+          "name": "KODEX 미국나스닥100",
+          "orgn_eok": -115.49333856666667,
+          "price": 26390,
+          "ret_5": 1.4804845222072593,
+          "trade_value_eok": 4968.39019318
+        },
+        {
+          "code": "252710",
+          "combined_eok": -30.331862306666665,
+          "foreign_eok": -17.0705227,
+          "name": "TIGER 200선물인버스2X",
+          "orgn_eok": -13.261339606666665,
+          "price": 96,
+          "ret_5": -14.28571428571429,
+          "trade_value_eok": 123.70215873
+        },
+        {
+          "code": "462330",
+          "combined_eok": -14.8635298,
+          "foreign_eok": -13.4387382,
+          "name": "KODEX 2차전지산업레버리지",
+          "orgn_eok": -1.4247916,
+          "price": 905,
+          "ret_5": -13.31417624521073,
+          "trade_value_eok": 671.86593878
+        }
+      ],
+      "stocks": [
+        {
+          "both_buy": true,
+          "code": "005930",
+          "combined_eok": 7757.382093333334,
+          "foreign_eok": 3749.192566666667,
+          "grade": "C",
+          "name": "삼성전자",
+          "orgn_eok": 4008.189526666667,
+          "price": 243000,
+          "ret_5": 8.7248322147651,
+          "trade_value_eok": 41082.54877
+        },
+        {
+          "both_buy": true,
+          "code": "069540",
+          "combined_eok": 42.690207,
+          "foreign_eok": 42.5192754,
+          "grade": "B",
+          "name": "빛과전자",
+          "orgn_eok": 0.1709316,
+          "price": 4195,
+          "ret_5": 11.273209549071627,
+          "trade_value_eok": 1518.62202001
+        },
+        {
+          "both_buy": false,
+          "code": "053800",
+          "combined_eok": 16.822852666666655,
+          "foreign_eok": -53.233696,
+          "grade": "S",
+          "name": "안랩",
+          "orgn_eok": 70.05654866666666,
+          "price": 110700,
+          "ret_5": 26.94954128440368,
+          "trade_value_eok": 0.0
+        },
+        {
+          "both_buy": true,
+          "code": "046890",
+          "combined_eok": 1.789668,
+          "foreign_eok": 1.7097573333333334,
+          "grade": "B",
+          "name": "서울반도체",
+          "orgn_eok": 0.07991066666666667,
+          "price": 10400,
+          "ret_5": 23.368920521945434,
+          "trade_value_eok": 0.0
+        },
+        {
+          "both_buy": true,
+          "code": "263860",
+          "combined_eok": 1.7772076666666665,
+          "foreign_eok": 1.1521015,
+          "grade": "B",
+          "name": "지니언스",
+          "orgn_eok": 0.6251061666666666,
+          "price": 27300,
+          "ret_5": 33.823529411764696,
+          "trade_value_eok": 0.0
+        },
+        {
+          "both_buy": true,
+          "code": "142760",
+          "combined_eok": 1.1702167266666665,
+          "foreign_eok": 1.1651400333333333,
+          "grade": "C",
+          "name": "모아라이프플러스",
+          "orgn_eok": 0.005076693333333333,
+          "price": 257,
+          "ret_5": -50.1937984496124,
+          "trade_value_eok": 0.0
+        },
+        {
+          "both_buy": false,
+          "code": "443670",
+          "combined_eok": 0.5485029666666665,
+          "foreign_eok": 1.645690433333333,
+          "grade": "D",
+          "name": "에스피소프트",
+          "orgn_eok": -1.0971874666666666,
+          "price": 4840,
+          "ret_5": 22.531645569620263,
+          "trade_value_eok": 0.0
+        },
+        {
+          "both_buy": true,
+          "code": "276730",
+          "combined_eok": 0.4659023033333333,
+          "foreign_eok": 0.43109176666666665,
+          "grade": "A",
+          "name": "한울앤제주",
+          "orgn_eok": 0.03481053666666666,
+          "price": 757,
+          "ret_5": -7.116564417177917,
+          "trade_value_eok": 0.0
+        },
+        {
+          "both_buy": false,
+          "code": "Q580082",
+          "combined_eok": 0.3004469,
+          "foreign_eok": 0.0,
+          "grade": "D",
+          "name": "KB 레버리지 반도체 TOP10 TR ETN",
+          "orgn_eok": 0.3004469,
+          "price": 16460,
+          "ret_5": 19.57864148201962,
+          "trade_value_eok": 0.0
+        },
+        {
+          "both_buy": false,
+          "code": "460940",
+          "combined_eok": 0.1883532,
+          "foreign_eok": 0.1883532,
+          "grade": "D",
+          "name": "피앤에스로보틱스",
+          "orgn_eok": 0.0,
+          "price": 5120,
+          "ret_5": 22.488038277511958,
+          "trade_value_eok": 0.0
+        }
+      ],
+      "stocks_sell": [
+        {
+          "code": "Q530107",
+          "combined_eok": -44.80073959333333,
+          "foreign_eok": -8.846474266666666,
+          "name": "삼성 인버스 2X 코스닥150 선물 ETN",
+          "orgn_eok": -35.954265326666665,
+          "price": 1911,
+          "ret_5": 5.755395683453246,
+          "trade_value_eok": 620.98927159
+        },
+        {
+          "code": "179880",
+          "combined_eok": -11.851939866666667,
+          "foreign_eok": -12.131661266666667,
+          "name": "멜콘",
+          "orgn_eok": 0.2797214,
+          "price": 18920,
+          "ret_5": 26.301735647530045,
+          "trade_value_eok": 4273.69749995
+        },
+        {
+          "code": "419050",
+          "combined_eok": -9.9475122,
+          "foreign_eok": -10.0169322,
+          "name": "삼기에너지솔루션즈",
+          "orgn_eok": 0.06942,
+          "price": 2540,
+          "ret_5": 0.0,
+          "trade_value_eok": 930.27284841
+        },
+        {
+          "code": "376930",
+          "combined_eok": -3.4219311,
+          "foreign_eok": -3.4219311,
+          "name": "노을",
+          "orgn_eok": 0.0,
+          "price": 1756,
+          "ret_5": 40.14365522745411,
+          "trade_value_eok": 0.0
+        },
+        {
+          "code": "254120",
+          "combined_eok": -1.6221259,
+          "foreign_eok": -1.64101605,
+          "name": "자비스",
+          "orgn_eok": 0.01889015,
+          "price": 3735,
+          "ret_5": -7.0895522388059735,
+          "trade_value_eok": 0.0
+        },
+        {
+          "code": "095910",
+          "combined_eok": -1.0633889,
+          "foreign_eok": -1.0392823,
+          "name": "에스에너지",
+          "orgn_eok": -0.0241066,
+          "price": 5290,
+          "ret_5": -9.262435677530013,
+          "trade_value_eok": 0.0
+        },
+        {
+          "code": "071950",
+          "combined_eok": -0.8177651866666665,
+          "foreign_eok": -0.8247612766666665,
+          "name": "코아스",
+          "orgn_eok": 0.00699609,
+          "price": 1151,
+          "ret_5": -21.966101694915253,
+          "trade_value_eok": 0.0
+        },
+        {
+          "code": "344860",
+          "combined_eok": -0.37547676,
+          "foreign_eok": -0.37820016,
+          "name": "이노진",
+          "orgn_eok": 0.0027234,
+          "price": 1473,
+          "ret_5": 1.3764624913971124,
+          "trade_value_eok": 0.0
+        },
+        {
+          "code": "053290",
+          "combined_eok": -0.03348581666666667,
+          "foreign_eok": -0.03348581666666667,
+          "name": "NE능률",
+          "orgn_eok": 0.0,
+          "price": 1300,
+          "ret_5": -2.182091798344621,
+          "trade_value_eok": 0.0
+        },
+        {
+          "code": "131100",
+          "combined_eok": -0.0030407000000000073,
+          "foreign_eok": 0.18637931666666668,
+          "name": "티엔엔터테인먼트",
+          "orgn_eok": -0.1894200166666667,
+          "price": 3600,
+          "ret_5": -6.735751295336789,
+          "trade_value_eok": 0.0
+        }
+      ]
+    },
+    "sectors": [
+      {
+        "close": 117005.0,
+        "code": "091160",
+        "date": "20261028",
+        "label": "반도체",
+        "pct": 8.142705300614631,
+        "trade_value_eok": 1786.57173374,
+        "vol_ratio": 0.9301031220922678
+      },
+      {
+        "close": 15425.0,
+        "code": "102970",
+        "date": "20261028",
+        "label": "증권",
+        "pct": 5.362021857923497,
+        "trade_value_eok": 62.97670407,
+        "vol_ratio": 1.2040695447178429
+      },
+      {
+        "close": 27260.0,
+        "code": "487240",
+        "date": "20261028",
+        "label": "AI전력",
+        "pct": 4.244741873804971,
+        "trade_value_eok": 553.58035527,
+        "vol_ratio": 0.753462688095062
+      },
+      {
+        "close": 7520.0,
+        "code": "157490",
+        "date": "20261028",
+        "label": "소프트웨어",
+        "pct": 3.724137931034482,
+        "trade_value_eok": 2.81780336,
+        "vol_ratio": 0.8699985097980777
+      },
+      {
+        "close": 24860.0,
+        "code": "463250",
+        "date": "20261028",
+        "label": "방산우주",
+        "pct": 3.669724770642202,
+        "trade_value_eok": 58.64970975,
+        "vol_ratio": 0.45861877551271807
+      },
+      {
+        "close": 6335.0,
+        "code": "117700",
+        "date": "20261028",
+        "label": "건설",
+        "pct": 3.3442088091353996,
+        "trade_value_eok": 69.38159104,
+        "vol_ratio": 0.40239646076186664
+      },
+      {
+        "close": 12065.0,
+        "code": "117460",
+        "date": "20261028",
+        "label": "에너지화학",
+        "pct": 2.724563644103874,
+        "trade_value_eok": 4.60448569,
+        "vol_ratio": 1.8576036200837627
+      },
+      {
+        "close": 14065.0,
+        "code": "305720",
+        "date": "20261028",
+        "label": "2차전지",
+        "pct": 2.664233576642336,
+        "trade_value_eok": 378.41002905,
+        "vol_ratio": 0.36025169135839175
+      },
+      {
+        "close": 14055.0,
+        "code": "091170",
+        "date": "20261028",
+        "label": "은행",
+        "pct": 2.4043715846994536,
+        "trade_value_eok": 88.14395486,
+        "vol_ratio": 1.584326471832771
+      },
+      {
+        "close": 7465.0,
+        "code": "244580",
+        "date": "20261028",
+        "label": "바이오",
+        "pct": 2.190280629705681,
+        "trade_value_eok": 34.19741915,
+        "vol_ratio": 1.0281631230393866
+      },
+      {
+        "close": 23365.0,
+        "code": "091180",
+        "date": "20261028",
+        "label": "자동차",
+        "pct": 2.1420765027322406,
+        "trade_value_eok": 33.96625756,
+        "vol_ratio": 2.139733671902681
+      },
+      {
+        "close": 8700.0,
+        "code": "144600",
+        "date": "20261028",
+        "label": "은",
+        "pct": 1.9332161687170473,
+        "trade_value_eok": 23.16741515,
+        "vol_ratio": 0.7152418323231123
+      },
+      {
+        "close": 15125.0,
+        "code": "266420",
+        "date": "20261028",
+        "label": "헬스케어",
+        "pct": 1.4419852448021462,
+        "trade_value_eok": 3.7603012,
+        "vol_ratio": 0.7811662642094711
+      },
+      {
+        "close": 6295.0,
+        "code": "140710",
+        "date": "20261028",
+        "label": "운송",
+        "pct": 1.2872083668543846,
+        "trade_value_eok": 1.89902622,
+        "vol_ratio": 1.6058498779063595
+      },
+      {
+        "close": 3605.0,
+        "code": "228790",
+        "date": "20261028",
+        "label": "화장품",
+        "pct": 0.8391608391608392,
+        "trade_value_eok": 80.97879702,
+        "vol_ratio": 1.0769529393781219
+      },
+      {
+        "close": 22510.0,
+        "code": "132030",
+        "date": "20261028",
+        "label": "금",
+        "pct": 0.7384202282389797,
+        "trade_value_eok": 8.2279428,
+        "vol_ratio": 0.3892007484629778
+      },
+      {
+        "close": 8745.0,
+        "code": "266360",
+        "date": "20261028",
+        "label": "미디어",
+        "pct": 0.286697247706422,
+        "trade_value_eok": 1.39807155,
+        "vol_ratio": 1.75486753200569
+      },
+      {
+        "close": 19135.0,
+        "code": "466920",
+        "date": "20261028",
+        "label": "조선",
+        "pct": -0.5457380457380457,
+        "trade_value_eok": 336.34325478,
+        "vol_ratio": 0.975859531250192
+      }
+    ]
+  },
+  "schema_version": 1,
+  "sources": [
+    {
+      "label": "네이버 일별",
+      "url": "https://stock.naver.com/market/stock/kr/trend/trader"
+    },
+    {
+      "label": "모바일 통합",
+      "url": "https://m.stock.naver.com/domestic/index/KOSPI/total"
+    }
+  ]
+}
