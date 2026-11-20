@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T18:15:59+09:00",
+  "is_holiday": false,
+  "market": "weekly",
+  "payload": {
+    "kosdaq_daily": [],
+    "kospi_daily": [
+      {
+        "bank": -11,
+        "date": "26.11.20",
+        "finance": -4582,
+        "foreign": -11249,
+        "institutional": -9436,
+        "insurance": -311,
+        "other_corp": 4870,
+        "other_fin": -85,
+        "pension": 845,
+        "personal": 15815,
+        "trust": -5291
+      },
+      {
+        "bank": 5,
+        "date": "26.11.19",
+        "finance": 536,
+        "foreign": -4086,
+        "institutional": 120,
+        "insurance": 298,
+        "other_corp": 4526,
+        "other_fin": -14,
+        "pension": -772,
+        "personal": -560,
+        "trust": 66
+      },
+      {
+        "bank": -46,
+        "date": "26.11.18",
+        "finance": 3069,
+        "foreign": -3405,
+        "institutional": 4926,
+        "insurance": -223,
+        "other_corp": 4648,
+        "other_fin": 95,
+        "pension": 660,
+        "personal": -6169,
+        "trust": 1371
+      },
+      {
+        "bank": -38,
+        "date": "26.11.17",
+        "finance": 7675,
+        "foreign": -14190,
+        "institutional": 5134,
+        "insurance": 174,
+        "other_corp": 4746,
+        "other_fin": -306,
+        "pension": -84,
+        "personal": 4310,
+        "trust": -2286
+      },
+      {
+        "bank": -29,
+        "date": "26.11.16",
+        "finance": 5328,
+        "foreign": -13287,
+        "institutional": -4562,
+        "insurance": 13,
+        "other_corp": 4945,
+        "other_fin": 3,
+        "pension": -5647,
+        "personal": 12904,
+        "trust": -4229
+      },
+      {
+        "bank": 12,
+        "date": "26.11.13",
+        "finance": -1224,
+        "foreign": -5419,
+        "institutional": -59,
+        "insurance": -127,
+        "other_corp": 5333,
+        "other_fin": 134,
+        "pension": 2109,
+        "personal": 145,
+        "trust": -964
+      },
+      {
+        "bank": -47,
+        "date": "26.11.12",
+        "finance": -9463,
+        "foreign": 4123,
+        "institutional": -6624,
+        "insurance": -129,
+        "other_corp": 5190,
+        "other_fin": 196,
+        "pension": -27,
+        "personal": -2689,
+        "trust": 2845
+      },
+      {
+        "bank": -52,
+        "date": "26.11.11",
+        "finance": -5419,
+        "foreign": 6729,
+        "institutional": -5034,
+        "insurance": 190,
+        "other_corp": 5450,
+        "other_fin": 103,
+        "pension": -990,
+        "personal": -7145,
+        "trust": 1134
+      },
+      {
+        "bank": 31,
+        "date": "26.11.10",
+        "finance": 741,
+        "foreign": 4439,
+        "institutional": 4642,
+        "insurance": 433,
+        "other_corp": 4867,
+        "other_fin": 86,
+        "pension": -1104,
+        "personal": -13947,
+        "trust": 4455
+      },
+      {
+        "bank": -40,
+        "date": "26.11.09",
+        "finance": 11456,
+        "foreign": -5256,
+        "institutional": 7535,
+        "insurance": 402,
+        "other_corp": 4607,
+        "other_fin": -358,
+        "pension": -1523,
+        "personal": -6886,
+        "trust": -2402
+      }
+    ],
+    "watch_5d": [
+      {
+        "pct_5d": -6.267347596363171,
+        "ticker": "QQQ"
+      },
+      {
+        "pct_5d": -10.81258820722173,
+        "ticker": "SMH"
+      },
+      {
+        "pct_5d": -9.68138214440154,
+        "ticker": "NLR"
+      },
+      {
+        "pct_5d": -5.347430970763045,
+        "ticker": "XLE"
+      },
+      {
+        "pct_5d": -5.553839544395601,
+        "ticker": "GLD"
+      },
+      {
+        "pct_5d": -12.145389343889812,
+        "ticker": "SLV"
+      },
+      {
+        "pct_5d": -4.921241103427587,
+        "ticker": "ITA"
+      },
+      {
+        "pct_5d": -5.134590262804317,
+        "ticker": "XOVR"
+      }
+    ]
+  },
+  "schema_version": 1,
+  "sources": [
+    {
+      "label": "네이버 일별",
+      "url": "https://stock.naver.com/market/stock/kr/trend/trader"
+    },
+    {
+      "label": "KIS 코스닥 일별",
+      "url": "https://apiportal.koreainvestment.com/apiservice/apiservice-domestic-stock-quotations#L_3d3dd20d-a64d-44ef-a7e2-ca110a5fe72e"
+    },
+    {
+      "label": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/"
+    }
+  ],
+  "week": "2026-W47"
+}
